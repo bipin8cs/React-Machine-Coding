@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "name": "File1.txt",
+      "isFolder": false
+    },
+    {
+      "id": 2,
+      "name": "Folder1",
+      "isFolder": true,
+      "isExpanded": false,
+      "children": [
+        {
+          "id": 3,
+          "name": "File2.txt",
+          "isFolder": false
+        },
+        {
+          "id": 4,
+          "name": "SubFolder1",
+          "isFolder": true,
+          "isExpanded": false,
+          "children": [
+            {
+              "id": 5,
+              "name": "File3.txt",
+              "isFolder": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "File4.txt",
+      "isFolder": false
+    },
+    {
+      "id": 15,
+      "name": "Folder5",
+      "isFolder": true,
+      "isExpanded": false,
+      "children": [
+        {
+          "id": 6,
+          "name": "File6.txt",
+          "isFolder": false
+        },
+        {
+          "id": 7,
+          "name": "SubFolder7",
+          "isFolder": true,
+          "isExpanded": false,
+          "children": [
+            {
+              "id": 8,
+              "name": "File8.txt",
+              "isFolder": false
+            }
+          ]
+        }
+      ]
+    }
+]
+  
