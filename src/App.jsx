@@ -8,10 +8,11 @@
 //import TabForm from "./Components/TabForm/TabForm";
 //import Pagination from "./Components/Pagination/Pagination";
 //import FileExplores from "./Components/FileExplore/FileExplores";
-import Chips from './Components/ChipsInput/Chip'
+//import Chips from './Components/ChipsInput/Chip'
+import OtpInput from './Components/OTPINPUT/OtpInput'
 
 function App() {
-  return (<Chips />);
+  return (<OtpInput />);
 }
 export default App
 
